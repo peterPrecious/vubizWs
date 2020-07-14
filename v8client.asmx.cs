@@ -23,7 +23,7 @@ namespace vubizWS
   public class v8client : System.Web.Services.WebService
   { // these client side web services are called via AJAX
 
-    //adding a meaningless comment to test GIT
+    //adding a meaningless comment to test GIT - 2nd meaningless stufff
 
 
     [WebMethod]
